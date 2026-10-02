@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-pydantic
+scikit-learn==1.6.1   # or whatever version you trained with
 joblib
 pandas
-scikit-learn
+numpy
